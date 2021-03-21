@@ -1,12 +1,3 @@
-**Disclaimer**
-
-This repository is provided "AS-IS" with **no warranty or support** given. This is not an official or supported product/use case. 
-
-Download the extension package from
-
-https://github.com/ptc-iot-sharing/SolrThing/releases/download/v6.0.137/Solr.zip
-
-
 # Apache Lucene and Solr
 
 Apache Lucene is a high-performance, full featured text search engine library
@@ -19,6 +10,14 @@ result faceting and highlighting.
 
 
 ## SolrThing
+
+**Disclaimer**
+
+This repository is provided "AS-IS" with **no warranty or support** given. This is not an official or supported product/use case. 
+
+Download the extension package from
+
+https://github.com/ptc-iot-sharing/SolrThing/releases/download/v6.0.137/Solr.zip
 
 **Services**
 
