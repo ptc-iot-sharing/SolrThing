@@ -1,15 +1,4 @@
-# Apache Lucene and Solr
-
-Apache Lucene is a high-performance, full featured text search engine library
-written in Java.
-
-Apache Solr is an enterprise search platform written using Apache Lucene.
-Major features include full-text search, index replication and sharding, and
-result faceting and highlighting.
-
-
-
-## SolrThing
+# SolrThing
 
 **Disclaimer**
 
@@ -18,6 +7,17 @@ This repository is provided "AS-IS" with **no warranty or support** given. This 
 Download the extension package from
 
 https://github.com/ptc-iot-sharing/SolrThing/releases/download/v6.0.137/Solr.zip
+
+**Description**
+
+Apache Lucene is a high-performance, full featured text search engine library
+written in Java.
+
+Apache Solr is an enterprise search platform written using Apache Lucene.
+Major features include full-text search, index replication and sharding, and
+result faceting and highlighting.
+
+This project is an extension for TWX that allows it to interface with Solr.
 
 **Services**
 
